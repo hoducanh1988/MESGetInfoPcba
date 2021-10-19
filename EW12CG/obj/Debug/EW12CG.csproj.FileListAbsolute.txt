@@ -1,0 +1,181 @@
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\bin\Debug\EW12CG.exe.config
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\bin\Debug\EW12CG.exe
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\bin\Debug\EW12CG.pdb
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\bin\Debug\NAudio.dll
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\bin\Debug\Renci.SshNet.dll
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\bin\Debug\UtilityPack.dll
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\bin\Debug\NAudio.xml
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\bin\Debug\Renci.SshNet.xml
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\bin\Debug\NationalInstruments.VisaNS.xml
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\obj\Debug\MainWindow.g.cs
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\obj\Debug\App.g.cs
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG_MarkupCompile.cache
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG_MarkupCompile.lref
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\obj\Debug\MainWindow.baml
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG.g.resources
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG.Properties.Resources.resources
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG.csproj.GenerateResource.cache
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG.csproj.CoreCompileInputs.cache
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG.csproj.CopyComplete
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG.exe
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG.pdb
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe.config
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.pdb
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe.config
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.pdb
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.csprojAssemblyReference.cache
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\MainWindow.g.cs
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\App.g.cs
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG_MarkupCompile.cache
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG_MarkupCompile.lref
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\MainWindow.baml
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.g.resources
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.Properties.Resources.resources
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.csproj.GenerateResource.cache
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.csproj.CoreCompileInputs.cache
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.csproj.CopyComplete
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.exe
+C:\Users\AnhHD\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.pdb
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.pdb
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\MainWindow.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\App.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG_MarkupCompile.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG_MarkupCompile.lref
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\MainWindow.baml
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.g.resources
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.exe
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.3\EW12CG\obj\Debug\EW12CG.pdb
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.pdb
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\EW12CG\obj\Debug\EW12CG.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\EW12CG\obj\Debug\MainWindow.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\EW12CG\obj\Debug\App.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\EW12CG\obj\Debug\EW12CG_MarkupCompile.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\EW12CG\obj\Debug\EW12CG_MarkupCompile.lref
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\EW12CG\obj\Debug\MainWindow.baml
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\EW12CG\obj\Debug\EW12CG.g.resources
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\EW12CG\obj\Debug\EW12CG.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\EW12CG\obj\Debug\EW12CG.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\EW12CG\obj\Debug\EW12CG.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\EW12CG\obj\Debug\EW12CG.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\EW12CG\obj\Debug\EW12CG.exe
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_developing\EW12CG\obj\Debug\EW12CG.pdb
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.pdb
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\EW12CG\obj\Debug\EW12CG.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\EW12CG\obj\Debug\MainWindow.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\EW12CG\obj\Debug\App.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\EW12CG\obj\Debug\EW12CG_MarkupCompile.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\EW12CG\obj\Debug\EW12CG_MarkupCompile.lref
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\EW12CG\obj\Debug\MainWindow.baml
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\EW12CG\obj\Debug\EW12CG.g.resources
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\EW12CG\obj\Debug\EW12CG.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\EW12CG\obj\Debug\EW12CG.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\EW12CG\obj\Debug\EW12CG.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\EW12CG\obj\Debug\EW12CG.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\EW12CG\obj\Debug\EW12CG.exe
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_pending_fw\EW12CG\obj\Debug\EW12CG.pdb
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.pdb
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\MainWindow.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\App.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG_MarkupCompile.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG_MarkupCompile.lref
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\MainWindow.baml
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.g.resources
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.exe
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.pdb
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_RDT\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_RDT\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_RDT\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.pdb
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_RDT\EW12CG\obj\Debug\MainWindow.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_RDT\EW12CG\obj\Debug\App.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_RDT\EW12CG\obj\Debug\EW12CG_MarkupCompile.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_RDT\EW12CG\obj\Debug\EW12CG_MarkupCompile.lref
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_RDT\EW12CG\obj\Debug\MainWindow.baml
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_RDT\EW12CG\obj\Debug\EW12CG.g.resources
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_RDT\EW12CG\obj\Debug\EW12CG.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_RDT\EW12CG\obj\Debug\EW12CG.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_RDT\EW12CG\obj\Debug\EW12CG.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_RDT\EW12CG\obj\Debug\EW12CG.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_RDT\EW12CG\obj\Debug\EW12CG.exe
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_RDT\EW12CG\obj\Debug\EW12CG.pdb
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_EW12C\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_EW12C\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_EW12C\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.pdb
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_EW12C\EW12CG\obj\Debug\MainWindow.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_EW12C\EW12CG\obj\Debug\App.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_EW12C\EW12CG\obj\Debug\EW12CG_MarkupCompile.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_EW12C\EW12CG\obj\Debug\EW12CG_MarkupCompile.lref
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_EW12C\EW12CG\obj\Debug\MainWindow.baml
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_EW12C\EW12CG\obj\Debug\EW12CG.g.resources
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_EW12C\EW12CG\obj\Debug\EW12CG.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_EW12C\EW12CG\obj\Debug\EW12CG.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_EW12C\EW12CG\obj\Debug\EW12CG.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_EW12C\EW12CG\obj\Debug\EW12CG.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_EW12C\EW12CG\obj\Debug\EW12CG.exe
+C:\Users\chien\source\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4_EW12C\EW12CG\obj\Debug\EW12CG.pdb
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe.config
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.pdb
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.csprojAssemblyReference.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\MainWindow.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\App.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG_MarkupCompile.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG_MarkupCompile.lref
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\MainWindow.baml
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.g.resources
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.exe
+G:\Backup_Tool_Test\repos\06. MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba_Ver1.0.0.4\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe.config
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba_Ver1.0.0.4\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba_Ver1.0.0.4\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\MainWindow.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\App.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG_MarkupCompile.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG_MarkupCompile.lref
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\MainWindow.baml
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.g.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba_Ver1.0.0.4\EW12CG\obj\Debug\EW12CG.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe.config
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba\MeshGetInfoPcba\bin\Debug\EW12CG\EW12CG.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba\EW12CG\obj\Debug\MainWindow.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba\EW12CG\obj\Debug\App.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG_MarkupCompile.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG_MarkupCompile.lref
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba\EW12CG\obj\Debug\MainWindow.baml
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG.g.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshGetInfoPcba\EW12CG\obj\Debug\EW12CG.pdb
